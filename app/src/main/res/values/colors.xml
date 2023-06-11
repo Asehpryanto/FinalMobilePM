@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background_apps">#B2B2B2</color>
+    <color name="bottom_navbar">#212d3b</color>
+    <color name="icon">#384655</color>
+    <color name="rating">#E7E40C</color>
+    <color name="release_date">#52a2f7</color>
+    <color name="card">#EAEAEA</color>
+    <color name="bambank">#656565</color>
+    <color name="item">#606C5D</color>
 </resources>
